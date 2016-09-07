@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?><sensors>
+	<sensor>
+		<id>1</id>
+		<value>27</value>
+		<chainge>NAC658.1025</chainge>
+		<time>1464812579</time>
+	</sensor>
+	<sensor>
+		<id>2</id>
+		<value>40</value>
+		<chainge>AUS364.7777</chainge>
+		<time>1465678881</time>
+	</sensor>
+</sensors>
